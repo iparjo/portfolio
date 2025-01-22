@@ -1,6 +1,6 @@
 # Professional statement
 
-## Iván P
+## Iván P.
 
 I've always been passionate on technology. One of my passions has always been learning, it doesn't matter which matter.
 I find it one of the best ways to enjoy life in general. Sometimes I find puzzles in general a good measure to relax and do some mental training.
@@ -11,4 +11,4 @@ and be able to create a safer place on the internet. I hope having the Google Cy
 a role on the field.
 
 ## Professional statement
-My name's Ivan. I'm driven and passionate about improving security, working hard to protect people from risks, vulnerabilities and threats.
+My name's Iván. I'm driven and passionate about improving security, working hard to protect people from risks, vulnerabilities and threats.
